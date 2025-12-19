@@ -1,0 +1,12 @@
+N = int(input())
+
+print ("1 x %d = %d" % (N,N))
+print ("2 x %d = %d" % (N,N*2))
+print ("3 x %d = %d" % (N,N*3))
+print ("4 x %d = %d" % (N,N*4))
+print ("5 x %d = %d" % (N,N*5))
+print ("6 x %d = %d" % (N,N*6))
+print ("7 x %d = %d" % (N,N*7))
+print ("8 x %d = %d" % (N,N*8))
+print ("9 x %d = %d" % (N,N*9))
+print ("10 x %d = %d" % (N,N*10))
